@@ -6,6 +6,10 @@
 
 ![](https://cdn-shop.adafruit.com/970x728/1586-00.jpg)
 
+_¿Qué es?_ Son leds RGB que tienen la tecnología NeoPixel esta nos permite enlazar multitud LEDs RGB y controlarlos con un solo cable de datos. 
+
+_¿Para qué sirve?_ Tira Neopixel WS2812 es usada para ahorrar multitud de cables y simplificando la instalación.
+
 | _Caracteristicas_ |
 |-------------------|
 | Diámetro externo: 65.6 mm. |
