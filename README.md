@@ -1,4 +1,4 @@
-# NeoPixel_Ring
+# NeoPixel Ring
 
 ## Andres Ponce Garibay
 
