@@ -1,6 +1,6 @@
-# NeoPixel Ring
+![](cooltext171697.png)
 
-## Andres Ponce Garibay
+## Andres Ponce Garibay ![](cooltext404055291876715.gif)
 
 ![](https://boutique.semageek.com/741-thickbox_default/neopixel-ring-with-12-led-rgb-led-and-driver-integrated.jpg)
 
