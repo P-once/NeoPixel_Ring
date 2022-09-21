@@ -7,6 +7,7 @@
 ![](https://cdn-shop.adafruit.com/970x728/1586-00.jpg)
 
 | _Caracteristicas_ |
+|-------------------|
 | Diámetro externo: 65.6 mm. |
 | Diámetro interno: 52.3 mm. |
 | Espesor: 6.7 mm. |
