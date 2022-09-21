@@ -12,7 +12,7 @@ Son leds RGB que tienen la tecnología NeoPixel esta nos permite enlazar multitu
 
 _**¿Para qué sirve?**_ 
 
-Tira Neopixel WS2812 es usada para ahorrar multitud de cables y simplificando la instalación.
+Es usada para ahorrar multitud de cables y simplificando la instalación.
 
 | _Caracteristicas_ |
 |-------------------|
